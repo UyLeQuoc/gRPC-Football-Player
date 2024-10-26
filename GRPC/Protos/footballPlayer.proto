@@ -1,0 +1,70 @@
+syntax = "proto3";
+
+option csharp_namespace = "GRPC.Protos";
+
+package GRPC.Protos;
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+
+// Define the FootballService with CRUD operations for FootballPlayer and FootballClub.
+service FootballService {
+    rpc GetFootballPlayers (google.protobuf.Empty) returns (FootballPlayersResponse);
+    rpc GetFootballPlayer (FootballPlayerIdRequest) returns (FootballPlayerResponse);
+    rpc AddFootballPlayer (FootballPlayerRequest) returns (FootballPlayerResponse);
+    rpc UpdateFootballPlayer (FootballPlayerRequest) returns (FootballPlayerResponse);
+    rpc DeleteFootballPlayer (FootballPlayerIdRequest) returns (FootballPlayerResponse);
+    rpc GetFootballClubs (google.protobuf.Empty) returns (FootballClubsResponse);
+}
+
+// Request and response messages
+
+// FootballPlayerRequest is used for adding and updating a football player.
+message FootballPlayerRequest {
+    string footballPlayerId = 1;
+    string fullName = 2;
+    string achievements = 3;
+    google.protobuf.Timestamp birthday = 4;
+    string playerExperiences = 5;
+    string nomination = 6;
+    string footballClubId = 7;
+}
+
+// Response containing a single FootballPlayer
+message FootballPlayerResponse {
+    FootballPlayer player = 1;
+}
+
+// Response containing a list of FootballPlayers
+message FootballPlayersResponse {
+    repeated FootballPlayer players = 1;
+}
+
+// Request message for retrieving or deleting a football player by ID
+message FootballPlayerIdRequest {
+    string id = 1;
+}
+
+// Response containing a list of FootballClubs
+message FootballClubsResponse {
+    repeated FootballClub clubs = 1;
+}
+
+// FootballPlayer message structure
+message FootballPlayer {
+    string footballPlayerId = 1;
+    string fullName = 2;
+    string achievements = 3;
+    google.protobuf.Timestamp birthday = 4;
+    string playerExperiences = 5;
+    string nomination = 6;
+    string footballClubId = 7;
+}
+
+// FootballClub message structure
+message FootballClub {
+    string footballClubId = 1;
+    string clubName = 2;
+    string clubShortDescription = 3;
+    string soccerPracticeField = 4;
+    string mascos = 5;
+}

@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\footballgrpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|solutionrelative:footballgrpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\protos\\footballplayer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\protos\\footballplayer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\footballgrpcclient\\protos\\footballplayer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|solutionrelative:footballgrpcclient\\protos\\footballplayer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\footballgrpcclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C4BD4F6-1D4C-46EF-A908-1E81E459BACB}|FootballGRPCClient\\FootballGRPCClient.csproj|solutionrelative:footballgrpcclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\services\\footballserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\services\\footballserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\grpc\\grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9A6BAFD-987C-453F-B09F-72D5B5446C7B}|GRPC\\GRPC.csproj|solutionrelative:grpc\\grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AA435A-C16F-4723-9798-DF557180B288}|DAOs\\DAOs.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\daos\\footballplayerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AA435A-C16F-4723-9798-DF557180B288}|DAOs\\DAOs.csproj|solutionrelative:daos\\footballplayerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\bos\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|solutionrelative:bos\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\bos\\footballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|solutionrelative:bos\\footballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05DF369-0B4E-41F7-A75A-5ADFC67555AC}|Services\\Services.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\services\\ifootballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05DF369-0B4E-41F7-A75A-5ADFC67555AC}|Services\\Services.csproj|solutionrelative:services\\ifootballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05DF369-0B4E-41F7-A75A-5ADFC67555AC}|Services\\Services.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\services\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05DF369-0B4E-41F7-A75A-5ADFC67555AC}|Services\\Services.csproj|solutionrelative:services\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\bos\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|solutionrelative:bos\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|d:\\school\\sem8\\grpcservice1prn231_lequocuy_grpc\\bos\\bos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{160AFEC7-03FA-468B-8A94-B62CDD0ECCF9}|BOs\\BOs.csproj|solutionrelative:bos\\bos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "FootballGRPCClient\\Protos\\greet.proto",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Protos\\greet.proto",
+              "RelativeToolTip": "FootballGRPCClient\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-26T07:19:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "footballPlayer.proto",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Protos\\footballPlayer.proto",
+              "RelativeDocumentMoniker": "FootballGRPCClient\\Protos\\footballPlayer.proto",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Protos\\footballPlayer.proto",
+              "RelativeToolTip": "FootballGRPCClient\\Protos\\footballPlayer.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-26T07:20:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Program.cs",
+              "RelativeDocumentMoniker": "FootballGRPCClient\\Program.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\FootballGRPCClient\\Program.cs",
+              "RelativeToolTip": "FootballGRPCClient\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:18:02.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "footballPlayer.proto",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Protos\\footballPlayer.proto",
+              "RelativeDocumentMoniker": "GRPC\\Protos\\footballPlayer.proto",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Protos\\footballPlayer.proto",
+              "RelativeToolTip": "GRPC\\Protos\\footballPlayer.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-26T07:13:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GRPC",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\GRPC.csproj",
+              "RelativeDocumentMoniker": "GRPC\\GRPC.csproj",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\GRPC.csproj",
+              "RelativeToolTip": "GRPC\\GRPC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T07:02:44.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\appsettings.json",
+              "RelativeDocumentMoniker": "GRPC\\appsettings.json",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\appsettings.json",
+              "RelativeToolTip": "GRPC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T06:52:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootballServiceImplement.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Services\\FootballServiceImplement.cs",
+              "RelativeDocumentMoniker": "GRPC\\Services\\FootballServiceImplement.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Services\\FootballServiceImplement.cs",
+              "RelativeToolTip": "GRPC\\Services\\FootballServiceImplement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:48:54.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Program.cs",
+              "RelativeDocumentMoniker": "GRPC\\Program.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Program.cs",
+              "RelativeToolTip": "GRPC\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:46:14.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GRPC\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GRPC\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:46:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GRPC\\Protos\\greet.proto",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\GRPC\\Protos\\greet.proto",
+              "RelativeToolTip": "GRPC\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-26T06:45:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FootballClub.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\FootballClub.cs",
+              "RelativeDocumentMoniker": "BOs\\FootballClub.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\FootballClub.cs",
+              "RelativeToolTip": "BOs\\FootballClub.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:44:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FootballPlayer.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\FootballPlayer.cs",
+              "RelativeDocumentMoniker": "BOs\\FootballPlayer.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\FootballPlayer.cs",
+              "RelativeToolTip": "BOs\\FootballPlayer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:44:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFootballPlayerService.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\Services\\IFootballPlayerService.cs",
+              "RelativeDocumentMoniker": "Services\\IFootballPlayerService.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\Services\\IFootballPlayerService.cs",
+              "RelativeToolTip": "Services\\IFootballPlayerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:44:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FootballPlayerService.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\Services\\FootballPlayerService.cs",
+              "RelativeDocumentMoniker": "Services\\FootballPlayerService.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\Services\\FootballPlayerService.cs",
+              "RelativeToolTip": "Services\\FootballPlayerService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:44:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FootballPlayerDAO.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\DAOs\\FootballPlayerDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\FootballPlayerDAO.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\DAOs\\FootballPlayerDAO.cs",
+              "RelativeToolTip": "DAOs\\FootballPlayerDAO.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:41:20.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnglishPremierLeague2024DbContext.cs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\EnglishPremierLeague2024DbContext.cs",
+              "RelativeDocumentMoniker": "BOs\\EnglishPremierLeague2024DbContext.cs",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\EnglishPremierLeague2024DbContext.cs",
+              "RelativeToolTip": "BOs\\EnglishPremierLeague2024DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:40:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BOs",
+              "DocumentMoniker": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\BOs.csproj",
+              "RelativeDocumentMoniker": "BOs\\BOs.csproj",
+              "ToolTip": "D:\\School\\Sem8\\GrpcService1PRN231_LeQuocUy_GRPC\\BOs\\BOs.csproj",
+              "RelativeToolTip": "BOs\\BOs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T06:38:42.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
